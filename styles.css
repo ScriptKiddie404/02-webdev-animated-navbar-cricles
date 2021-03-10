@@ -73,10 +73,9 @@ body {
 }
 
 .figues__title {
-  background-color: rgba(0, 0, 0, 0.3);
-  padding: 1rem;
-  border-radius: 5px;
   margin-top: 1em;
+  color: rgb(49, 12, 83);
+  text-transform: uppercase;
 }
 
 .circles-container {
@@ -92,12 +91,11 @@ body {
   height: 100px;
   background-color: white;
   border-radius: 50%;
-  border: 1px solid rgb(52, 3, 61);
 }
 
 .circle__left {
   transform: translateX(25%);
-  background-color: rgba(43, 10, 73, 0.3);
+  background-color: rgba(4, 45, 73, 0.3);
 }
 
 .circle__right {
